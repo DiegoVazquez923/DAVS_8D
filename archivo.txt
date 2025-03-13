@@ -5,3 +5,7 @@ Nombre proyecto:DAVS
 -Seccion trabajado 2-
 Nombre: Trabajador 2
 NombreRepo: DAVS
+
+--Seccion de trabajo trabajador 1 --
+NombreTrabajador: Trabajador 1
+Descripcion: Modificacion de documento
