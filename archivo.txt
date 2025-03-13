@@ -1,3 +1,7 @@
 jasdjadjasd
 dedede
 Nombre proyecto:DAVS
+
+-Seccion trabajado 2-
+Nombre: Trabajador 2
+NombreRepo: DAVS
